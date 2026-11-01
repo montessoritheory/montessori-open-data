@@ -8,9 +8,11 @@ Every dataset has its own repository with a cover, a data dictionary, a method, 
 
 ## 🏫 Montessori Schools
 
-| Dataset | GitHub | Kaggle | Hugging Face |
-|---|---|---|---|
-| 2,070 Montessori private schools in 2023-24, and 37,543 school-year records from 18 NCES survey waves since 1989, by state, city and county | [us-montessori-private-schools](https://github.com/montessoritheory/us-montessori-private-schools) | [Kaggle](https://www.kaggle.com/datasets/mariamontessori/us-montessori-private-schools) | [Dataset](https://huggingface.co/datasets/montessoritheory/us-montessori-private-schools) |
+| Dataset | GitHub | Kaggle | Hugging Face | DOI |
+|---|---|---|---|---|
+| 2,070 Montessori private schools in 2023-24, and 37,543 school-year records from 18 NCES survey waves since 1989, by state, city and county | [us-montessori-private-schools](https://github.com/montessoritheory/us-montessori-private-schools) | [Kaggle](https://www.kaggle.com/datasets/mariamontessori/us-montessori-private-schools) | [Dataset](https://huggingface.co/datasets/montessoritheory/us-montessori-private-schools) | [Zenodo](https://doi.org/10.5281/zenodo.23871758) |
+
+A research note built on this dataset, *How Many Montessori Private Schools Are There in the United States?*, is archived at [doi.org/10.5281/zenodo.23871815](https://doi.org/10.5281/zenodo.23871815).
 
 More datasets on child development and early education will be added here as they are released.
 
